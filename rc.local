@@ -1,0 +1,7 @@
+#!/bin/sh -e
+#
+# rc.local
+
+python /home/pi/displayIP.py
+
+exit 0
